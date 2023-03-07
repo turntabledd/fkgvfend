@@ -1,0 +1,535 @@
+{
+  "debug": true,
+  "testAcFormat": "^slow05",
+  "autoLogin": true,
+  "iframe": true,
+  "gmUrl": "ws://127.0.0.1",
+  "bsIp": "54.244.43.127",
+  "soundCfg": { "recycle": false },
+  "kapian": [
+    {
+      "gid": 2018,
+      "gameName": "NiaoWangGuiLai_2018",
+      "selectTable": false,
+      "url": "NiaoWangGuiLai_2018/index.html",
+      "fenlei": "other"
+    },
+    {
+      "gid": 2019,
+      "gameName": "WanHuiXiJi_2019",
+      "selectTable": false,
+      "url": "WanHuiXiJi_2019/index.html",
+      "fenlei": "other"
+    },
+    {
+      "gid": 2000,
+      "gameName": "JinChanBuYu_2000",
+      "selectTable": false,
+      "url": "JinChanBuYu_2000/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2015,
+      "gameName": "LiKuiPiYu_2015",
+      "selectTable": false,
+      "url": "LiKuiPiYu_2015/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2005,
+      "gameName": "HuoQiLin_2005",
+      "selectTable": false,
+      "t": 1,
+      "url": "HuoQiLin_2005/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2006,
+      "gameName": "YaoQianShu_2006",
+      "selectTable": false,
+      "url": "YaoQianShu_2006/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2002,
+      "gameName": "XieWang_2002",
+      "selectTable": false,
+      "t": 1,
+      "url": "XieWang_2002/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2012,
+      "gameName": "ZhangYuXiaoZi_2012",
+      "selectTable": false,
+      "url": "ZhangYuXiaoZi_2012/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2004,
+      "gameName": "ShenHaiJuShou_2004",
+      "selectTable": false,
+      "url": "ShenHaiJuShou_2004/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2008,
+      "gameName": "YingYan_2008",
+      "selectTable": false,
+      "url": "YingYan_2008/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2007,
+      "gameName": "EYuChuanQi_2007",
+      "selectTable": false,
+      "url": "EYuChuanQi_2007/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2009,
+      "gameName": "LongFengDou_2009",
+      "selectTable": false,
+      "url": "LongFengDou_2009/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2013,
+      "gameName": "MaXiTuan_2013",
+      "selectTable": false,
+      "url": "MaXiTuan_2013/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2014,
+      "gameName": "LiuXingYu_2014",
+      "selectTable": false,
+      "url": "LiuXingYu_2014/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2011,
+      "gameName": "MoFaChuan_2011",
+      "selectTable": false,
+      "url": "MoFaChuan_2011/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2010,
+      "gameName": "BaiLongMa_2010",
+      "selectTable": false,
+      "url": "BaiLongMa_2010/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2016,
+      "gameName": "ShengTangWuShi_2016",
+      "selectTable": false,
+      "url": "ShengTangWuShi_2016/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2003,
+      "gameName": "HuoShanShou_2003",
+      "selectTable": false,
+      "url": "HuoShanShou_2003/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2027,
+      "gameName": "HuoQiLin2_2027",
+      "selectTable": false,
+      "t": 3,
+      "url": "HuoQiLin2_2027/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2026,
+      "gameName": "XieWang2_2026",
+      "selectTable": false,
+      "t": 1,
+      "url": "XieWang2_2026/index.html",
+      "fenlei": "fishing"
+    },
+
+    {
+      "gid": 2031,
+      "gameName": "HeiHuZiCZ_2031",
+      "selectTable": false,
+      "t": 3,
+      "url": "HeiHuZiCZ_1452/index.html",
+      "fenlei": "fishing"
+    },
+    {
+      "gid": 2030,
+      "gameName": "pandavslien_2030",
+      "selectTable": false,
+      "t": 3,
+      "url": "pandavsalien_1426/index.html",
+      "fenlei": "fishing"
+    },
+
+    {
+      "gid": 2548,
+      "gameName": "LaoGongJie_2548",
+      "selectTable": false,
+      "url": "LaoGongJie_2548/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2555,
+      "gameName": "MuQinJie_2555",
+      "selectTable": false,
+      "url": "MuQinJie_2555/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2554,
+      "gameName": "FuHuoJie_2554",
+      "selectTable": false,
+      "url": "FuHuoJie_2554/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2504,
+      "gameName": "ShengPaTeLiKe_2504",
+      "selectTable": false,
+      "t": 2,
+      "url": "ShengPaTeLiKe_2504/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2519,
+      "gameName": "BaoShiKuangC_2519",
+      "selectTable": false,
+      "url": "BaoShiKuangC_2519/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2550,
+      "gameName": "AiJi2_2550",
+      "selectTable": false,
+      "url": "AiJi2_2550/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2509,
+      "gameName": "LuoMaJingJi_2509",
+      "selectTable": false,
+      "url": "LuoMaJingJi_2509/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2515,
+      "gameName": "ALaShenDeng_2515",
+      "selectTable": false,
+      "url": "ALaShenDeng_2515/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2516,
+      "gameName": "CaiShenFaFaFa_2516",
+      "selectTable": false,
+      "url": "CaiShenFaFaFa_2516/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2537,
+      "gameName": "QiE_2537",
+      "selectTable": false,
+      "url": "QiE_2537/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2536,
+      "gameName": "XiBuYeNiu_2536",
+      "selectTable": false,
+      "url": "XiBuYeNiu_2536/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2527,
+      "gameName": "ShengDanLaoRen_2527",
+      "selectTable": false,
+      "url": "ShengDanLaoRen_2527/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2558,
+      "gameName": "Fruit777_2558",
+      "selectTable": false,
+      "url": "Fruit777_2558/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2546,
+      "gameName": "HaiDao_2546",
+      "selectTable": false,
+      "url": "HaiDao_2546/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2513,
+      "gameName": "Lucky777_2513",
+      "selectTable": false,
+      "t": 1,
+      "url": "Lucky777_2513/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2545,
+      "gameName": "AiJi_2545",
+      "selectTable": false,
+      "url": "AiJi_2545/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2506,
+      "gameName": "HappyDuck_2506",
+      "selectTable": false,
+      "t": 1,
+      "url": "HappyDuck_2506/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2525,
+      "gameName": "FruitParty_2525",
+      "selectTable": false,
+      "url": "FruitParty_2525/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2547,
+      "gameName": "HaiDao2_2547",
+      "t": 2,
+      "selectTable": false,
+      "url": "HaiDao2_2547/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2518,
+      "gameName": "WanShenJie_2518",
+      "selectTable": false,
+      "url": "WanShenJie_2518/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2540,
+      "gameName": "KuaiLeNongC_2540",
+      "selectTable": false,
+      "url": "KuaiLeNongC_2540/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2501,
+      "gameName": "BeiOu_2501",
+      "selectTable": false,
+      "url": "BeiOu_2501/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2502,
+      "gameName": "JiXieNiao_2502",
+      "selectTable": false,
+      "url": "JiXieNiao_2502/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2524,
+      "gameName": "MaXiTuan_15_2524",
+      "selectTable": false,
+      "url": "MaXiTuan_2524/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2510,
+      "gameName": "ZhongGuoFeng_2510",
+      "selectTable": false,
+      "url": "ZhongGuoFeng_2510/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2553,
+      "gameName": "GanEnJie_2553",
+      "selectTable": false,
+      "url": "GanEnJie_2553/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2566,
+      "gameName": "SaiMa_2566",
+      "t": 3,
+      "selectTable": false,
+      "url": "SaiMa_2566/index.html",
+      "fenlei": "other"
+    },
+    {
+      "gid": 2512,
+      "gameName": "ZhongGuoF777_2512",
+      "selectTable": false,
+      "url": "ZhongGuoF777_2512/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2523,
+      "gameName": "DongWuSenLin_2523",
+      "selectTable": false,
+      "url": "DongWuSenLin_2523/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2552,
+      "gameName": "WangJiangShi_2552",
+      "selectTable": false,
+      "url": "WangJiangShi_2552/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2559,
+      "gameName": "FuQinJie_2559",
+      "selectTable": false,
+      "url": "FuQinJie_2559/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2535,
+      "gameName": "MeiGuoDLR_2535",
+      "selectTable": false,
+      "url": "MeiGuoDLR_2535/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2543,
+      "gameName": "HaiYang_2543",
+      "selectTable": false,
+      "url": "HaiYang_2543/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2557,
+      "gameName": "HuaXianZi_2557",
+      "selectTable": false,
+      "url": "HuaXianZi_2557/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2534,
+      "gameName": "LaSiWeiJiaSi_2534",
+      "selectTable": false,
+      "url": "LaSiWeiJiaSi_2534/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2542,
+      "gameName": "LongDeHC_2542",
+      "selectTable": false,
+      "url": "LongDeHC_2542/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2551,
+      "gameName": "DianWanJiuXing_2551",
+      "selectTable": false,
+      "url": "DianWanJiuXing_2551/index.html",
+      "fenlei": "other"
+    },
+    {
+      "gid": 2533,
+      "gameName": "ZhongGuoJie9_2533",
+      "selectTable": false,
+      "t": 2,
+      "url": "ZhongGuoJie9_2533/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2538,
+      "gameName": "YingWuBei_2538",
+      "selectTable": false,
+      "url": "YingWuBei_2538/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2549,
+      "gameName": "Moxige3_2549",
+      "t": 2,
+      "selectTable": false,
+      "url": "Moxige3_2549/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2541,
+      "gameName": "ZhuZaiJinBi_2541",
+      "t": 2,
+      "selectTable": false,
+      "url": "ZhuZaiJinBi_2541/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2544,
+      "gameName": "ZhongGuoJie3_2544",
+      "t": 1,
+      "selectTable": false,
+      "url": "ZhongGuoJie3_2544/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2531,
+      "gameName": "BeiAn5_2531",
+      "selectTable": false,
+      "t": 2,
+      "url": "BeiAn5_2531/index.html",
+      "fenlei": "slot"
+    },
+
+    {
+      "gid": 2569,
+      "gameName": "LongZhiBaoZang_2569",
+      "t": 2,
+      "selectTable": false,
+      "url": "LongZhiBaoZang_2569/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2574,
+      "gameName": "3DKongLong_2574",
+      "t": 3,
+      "selectTable": false,
+      "url": "3DKongLong_2574/index.html",
+      "fenlei": "slot"
+    },
+    {
+      "gid": 2560,
+      "gameName": "KuaiSuQiuQiu_2560",
+      "selectTable": false,
+      "url": "KuaiSuQiuQiu_2560/index.html",
+      "fenlei": "other"
+    },
+    {
+      "gid": 2528,
+      "gameName": "MeiGuoZhiPai_2528",
+      "selectTable": false,
+      "t": 2,
+      "url": "MeiGuoZhiPai_2528/index.html",
+      "fenlei": "other"
+    },
+    {
+      "gid": 2514,
+      "gameName": "KenoBall_2514",
+      "selectTable": false,
+      "url": "KenoBall_2514/index.html",
+      "fenlei": "other"
+    },
+    {
+      "gid": 2556,
+      "gameName": "HeiJieke2_2556",
+      "selectTable": false,
+      "t": 3,
+      "url": "HeiJieke2_2556/index.html",
+      "fenlei": "other"
+    }
+  ],
+  "testGames": [],
+  "kpLoadIndex": 0,
+  "guangGao": [0, 1, 2533, 2531, 2544, 2026, 2027, 2556],
+  "bigGG": [{ "gid": 1, "t": 4 }]
+}
